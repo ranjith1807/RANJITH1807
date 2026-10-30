@@ -37,10 +37,4 @@ I’m a Full-Stack Developer passionate about building clean, practical, and hig
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ranjith1807&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ranjith1807&layout=compact&theme=radical)
-
 Thanks for visiting my profile! 🚀
