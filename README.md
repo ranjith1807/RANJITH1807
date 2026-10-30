@@ -2,7 +2,6 @@
 
 I’m a Full-Stack Developer passionate about building clean, practical, and highly scalable digital experiences. With a strong foundation in modern web technologies and backend architecture, I enjoy turning complex problems into efficient working solutions.
 
-- 🔭 **Currently working on:** A full-stack Kanban task management application featuring a React/TypeScript frontend and a Spring Boot/PostgreSQL backend deployed via Docker.
 - 💼 **Experience:** Previously worked as a Full Stack Intern at **Algo Analytics** (React/Node.js) and as an Intern at **Virtusa**, where I handled a Superstore management data project processing over 1 million records.
 - 🌱 **Currently exploring:** Advanced deployment architectures connecting FastAPI and Spring Boot to React/Vite frontends, and event-driven synchronization.
 - 🚀 **Featured Projects:** Built *Tech Shop* (MERN stack e-commerce with Redux & PayPal SDK) and a *Personal Finance Tracker* (React, Firebase, Ant Design).
