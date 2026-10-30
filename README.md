@@ -39,8 +39,8 @@ I’m a Full-Stack Developer passionate about building clean, practical, and hig
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjith1807&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ranjith1807&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjith1807&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ranjith1807&layout=compact&theme=radical)
 
 Thanks for visiting my profile! 🚀
