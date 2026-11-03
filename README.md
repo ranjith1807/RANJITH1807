@@ -7,7 +7,7 @@ I’m a Full-Stack Developer passionate about building clean, practical, and hig
 - 🚀 **Featured Projects:** Built *Tech Shop* (MERN stack e-commerce with Redux & PayPal SDK) and a *Personal Finance Tracker* (React, Firebase, Ant Design).
 - 🎓 **Education & Certifications:** B.E. in Computer Science. Certified in AWS Cloud Practitioner, MERN Full Stack, and Java.
 - 💬 **Ask me about:** React.js, MERN Full Stack, Java Spring Boot architecture, database optimization (MongoDB/PostgreSQL), and full-stack problem-solving.
-- 📫 **Reach me at:** [[Insert LinkedIn URL](https://www.linkedin.com/in/v-ranjith/)]
+- 📫 **Reach me at:** [[LinkedIn](https://www.linkedin.com/in/v-ranjith/)]
 - ⚡ **Fun fact:** I love learning by building real-world projects and diving deep into high-concurrency system designs.
 
 ### 🛠 Tech Stack
